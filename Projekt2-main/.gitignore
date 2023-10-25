@@ -1,0 +1,14 @@
+/build/
+/.idea/
+/.gradle/
+/public/
+/src/main/resources/deck_tier1.png
+/src/main/resources/deck_tier2.png
+/src/main/resources/deck_tier3.png
+/save1.sav
+/save2.sav
+/save3.sav
+/save4.sav
+.git-credentials
+*.hprof
+*.sav
